@@ -10,3 +10,6 @@
 - Increased student name field capacity from 50 to 100 characters.
 ## Version 1.12
 - Increased address field capacity from 100 to 200 characters.
+## Version 1.13
+- Increased phone number field capacity from 20 to 25 characters.
+

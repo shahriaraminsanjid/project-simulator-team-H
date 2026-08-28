@@ -12,3 +12,5 @@ The system now stores the age of every student.
 The maximum length of the student name field has been increased from 50 to 100 characters.
 ## Improved Address Capacity
 The maximum length of the student address field has been increased from 100 to 200 characters.
+## Improved Phone Number Capacity
+The maximum length of the student phone number field has been increased from 20 to 25 characters.
