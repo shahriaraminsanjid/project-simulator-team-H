@@ -1,4 +1,5 @@
-## Student Age
+## Student Status
+The system now tracks a student's status (e.g., Active, Inactive, Graduated).## Student Age
 The system now stores the age of every student.
 ## Student CGPA
 The system now stores the CGPA of every student.
