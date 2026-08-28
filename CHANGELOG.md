@@ -1,16 +1,11 @@
-## Version 1.1
-- Added age field to Student structure.
+## Version 1.3
+- Renamed student fields.
+
 ## Version 1.2
-- Added CGPA field to Student structure.
-## Version 1.9
-- Added credit hours field to Student structure.
-## Version 1.10
-- Added status field to Student structure.
-## Version 1.11
-- Increased student name field capacity from 50 to 100 characters.
-## Version 1.12
-- Increased address field capacity from 100 to 200 characters.
-## Version 1.13
-- Increased phone number field capacity from 20 to 25 characters.
-## Version 1.14
-- Renamed student id field to studentId.
+- Added student contact information.
+
+## Version 1.1
+- Added student academic information.
+
+## Version 1.0
+- Initial Student structure created.
