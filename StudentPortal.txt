@@ -1,3 +1,5 @@
+
+
 struct Student
 {
     int id;
@@ -11,4 +13,7 @@ struct Student
     char gender[10];
     int semester;
     int creditHours;
+    int status[20];
 };
+cat StudentPortal.txt
+
