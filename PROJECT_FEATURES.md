@@ -14,3 +14,5 @@ The maximum length of the student name field has been increased from 50 to 100 c
 The maximum length of the student address field has been increased from 100 to 200 characters.
 ## Improved Phone Number Capacity
 The maximum length of the student phone number field has been increased from 20 to 25 characters.
+## Renamed Student ID Field
+The `id` field has been renamed to `studentId` for clarity.
