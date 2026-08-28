@@ -4,3 +4,5 @@ The system now stores the age of every student.
 The system now stores the CGPA of every student.
 ## Student Department
 The system now stores the department of every student.
+## Student Credit Hours
+The system now stores the credit hours of every student.
